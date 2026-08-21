@@ -54,12 +54,26 @@ I'm early in this path and I say that upfront. What I have is hands-on repos, no
 <img src="https://skillicons.dev/icons?i=python,js,git,github,vscode&theme=dark"/>
 </div>
 
+**Currently Using — proven in my repos**
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Conversational%20Memory-4C1D95?style=for-the-badge&logo=probot&logoColor=white"/>
+
+</div>
+
+**Currently Learning — studying, not shipped yet**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-4338CA?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-312E81?style=for-the-badge&logo=dependabot&logoColor=white"/>
 
 </div>
 
