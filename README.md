@@ -34,7 +34,7 @@
 
 ## About
 
-I'm a Diploma student in AI & ML at Sanketika Polytechnic College, building real, working applications with LLMs instead of just studying the theory. My focus is LangChain-based apps — retrieval, memory, conversational agents — using the Gemini API as my primary model backend.
+I build real, working applications with LLMs instead of just studying the theory. My focus is LangChain-based apps — retrieval, memory, conversational agents — using the Gemini API as my primary model backend.
 
 I'm early in this path and I say that upfront. What I have is hands-on repos, not a job title yet. I'm looking for internships and collaborations where I can keep building.
 
@@ -51,7 +51,7 @@ I'm early in this path and I say that upfront. What I have is hands-on repos, no
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark"/>
 </div>
 
 **Currently Using — proven in my repos**
